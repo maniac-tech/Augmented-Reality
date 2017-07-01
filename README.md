@@ -23,3 +23,4 @@ You will need to :
 - Object Tracker
 - Virtual Buttons
 - Cylinder Targets
+- Text Detection
