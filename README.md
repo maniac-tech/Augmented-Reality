@@ -19,8 +19,22 @@ You will need to :
   
 ### List of Examples
 
-- Demo
-- Object Tracker
+- Demo : 
+
+  Based on Image Targets
+ 
+- Object Tracker:
+
+  Based on Object Targets
+
 - Virtual Buttons
+
 - Cylinder Targets
-- Text Detection
+
+- Text Detection:
+
+  Based on text recognition.
+
+- Spaceman :
+  
+  Under Development
