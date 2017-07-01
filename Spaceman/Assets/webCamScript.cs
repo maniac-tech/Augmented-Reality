@@ -20,7 +20,7 @@ public class webCamScript : MonoBehaviour {
 
 		Input.gyro.enabled = true;
 
-		fireButton.onClick.AddListener (OnButtonDown);
+		//fireButton.onClick.AddListener (OnButtonDown);
 
 		WebCamTexture webCameraTexture = new WebCamTexture();
 		webCameraPlane.GetComponent<MeshRenderer>().material.mainTexture = webCameraTexture;
