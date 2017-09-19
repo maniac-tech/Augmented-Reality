@@ -1,40 +1,31 @@
 # Augmented-Reality
-### What do we understand by AugmentedReality?
-It is a technology that superimposes a computer-generated image on a user's view of the real world.
+### What is Augmented Reality?
+Augmented Reality’s definition varies from one person to another, but the concept remains the same.
+My definition of AR is to _put some extra information on the user’s real world_. This _some extra information_ varies from text to objects, and the real world remains unaffected from this superimposed information.
 
-### About the Repo
-This repository consists of basic **Augmented Reality** examples.
-Each example is contained in its respective folder.
+Google’s Definition: _"a technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view"_
 
-All the examples are configured to run on **Android Phones** with minimum requirement of **Jelly Bean**.
+### Getting Started
+There are many SDKs available which will help you implement your ideas. Alongside, you’ll require some development platform to implement your ideas using these SDKs.
 
-All the examples are built in Unity, using Vuforia.
+Talking about platforms, you can develop the application for Android, iOS, Windows, and many more. You may use Android Studio or Xcode for developing on Android or iOS respectively. You may also use _Unity_ or _Unreal game engine_ for developing applications for all the above mentioned platforms.
 
-### How to configure applications or Code?
-You will need to :
+### List of Available SDKs:
+- [Vuforia](https://vuforia.com/)
+- [Wikitude](https://www.wikitude.com/)
+- [ARToolKit](http://artoolkit.org/)
+- [Kudan AR Engine](https://www.kudan.eu/)
+- [Easy AR](https://easyar.com/)
 
-  * Install [Unity](https://unity3d.com/get-unity/download)
-  * Download [Vuforia-to-Unity Extension package](https://developer.vuforia.com/downloads/sdk)
-  
-  
+
 ### List of Examples
-
-- Demo : 
-
+-	Demo :
   Based on Image Targets
- 
-- Object Tracker:
-
+-	Object Tracker:
   Based on Object Targets
-
-- Virtual Buttons
-
-- Cylinder Targets
-
-- Text Detection:
-
+-	Virtual Buttons
+-	Cylinder Targets
+-	Text Detection:
   Based on text recognition.
-
-- Spaceman :
-  
+-	Spaceman :
   Under Development
