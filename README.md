@@ -16,9 +16,9 @@ Talking about platforms, you can develop the application for Android, iOS, Windo
 - [ARToolKit](http://artoolkit.org/)
 - [Kudan AR Engine](https://www.kudan.eu/)
 - [Easy AR](https://easyar.com/)
-- [DeepAR] (https://deepar.ai/)
-- [MaxST] ()
-- [NyARToolkit] (https://nyatla.jp/nyartoolkit/wp/?page_id=198)
+- [DeepAR](https://deepar.ai/)
+- [MaxST]()
+- [NyARToolkit](https://nyatla.jp/nyartoolkit/wp/?page_id=198)
 
 
 ### List of Examples
